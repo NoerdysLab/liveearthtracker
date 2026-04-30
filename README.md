@@ -1,2 +1,0 @@
-# liveearthtracker
-tracking the world 

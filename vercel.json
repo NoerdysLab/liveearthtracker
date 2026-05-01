@@ -1,0 +1,8 @@
+{
+  "buildCommand": "cd geo-app && npm ci && TURBOPACK=0 npx next build && cd .. && cp -r geo-app/out geo",
+  "outputDirectory": ".",
+  "framework": null,
+  "rewrites": [
+    { "source": "/geo", "destination": "/geo/index.html" }
+  ]
+}

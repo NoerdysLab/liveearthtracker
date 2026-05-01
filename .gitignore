@@ -1,0 +1,7 @@
+node_modules/
+.next/
+geo-app/out/
+geo-app/node_modules/
+geo-app/.next/
+.env
+geo-backend/.env
